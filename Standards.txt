@@ -1,0 +1,12 @@
+Semantic Versioning 2.0.0
+  http://semver.org/
+*******************************************************  
+x.y.z
+Where:
+
+x = main version number, 1-~.
+y = feature number, 0-9. Increase this number if the change contains new features with or without bug fixes.
+z = hotfix number, 0-~. Increase this number if the change only contains bug fixes.
+*******************************************************
+https://en.wikipedia.org/wiki/Software_versioning
+
